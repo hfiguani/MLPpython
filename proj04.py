@@ -1,5 +1,5 @@
 # Slide Puzzle
-# By Hafed Figuani, Shirley, Hamida, Sanjay
+# By Hafed Figuani
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
 

@@ -1,5 +1,5 @@
 #Project 03
-#Created by Hafed, Hamida, Shirley, Sanjay
+#Created by Hafed
 #November 7,2016
 #CIT-125 Python
 
